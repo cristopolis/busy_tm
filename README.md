@@ -1,7 +1,7 @@
 # **Bounds on Busy Turing Machines**
 [![forthebadge](https://forthebadge.com/images/badges/made-with-python.svg)]()
 
-If you are unfamiliar with the busy beaver function, check out my short paper on the topic found [here](https://drive.google.com/file/d/1ZWqyUv3QAnn1spLqz5vBBY-HBQIlHYDI/view?usp=sharing).
+If you are unfamiliar with the busy beaver function, check out my short paper on the topic found [here](https://drive.google.com/file/d/1Zr2gmRvZiiqaG6sjilIARYlqr3fyGTUH/view?usp=sharing).
 
 [simulations.ipynb](https://nbviewer.jupyter.org/github/cristopolis/busy_tm/blob/main/simulations.ipynb) contains a Turing machine search, a custom loader, and a straightforward BB(n) simulation. If the .ipynb file is not loading on github, link to the notebook view is [here](https://nbviewer.jupyter.org/github/cristopolis/busy_tm/blob/main/simulations.ipynb)
 
